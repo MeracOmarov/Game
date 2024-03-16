@@ -1,0 +1,15 @@
+C:\Users\Meraj\source\repos\КНБgame\Abtraction\bin\Debug\net7.0\Abtraction.deps.json
+C:\Users\Meraj\source\repos\КНБgame\Abtraction\bin\Debug\net7.0\Abtraction.dll
+C:\Users\Meraj\source\repos\КНБgame\Abtraction\bin\Debug\net7.0\Abtraction.pdb
+C:\Users\Meraj\source\repos\КНБgame\Abtraction\bin\Debug\net7.0\Domen.dll
+C:\Users\Meraj\source\repos\КНБgame\Abtraction\bin\Debug\net7.0\Domen.pdb
+C:\Users\Meraj\source\repos\КНБgame\Abtraction\obj\Debug\net7.0\Abtraction.csproj.AssemblyReference.cache
+C:\Users\Meraj\source\repos\КНБgame\Abtraction\obj\Debug\net7.0\Abtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meraj\source\repos\КНБgame\Abtraction\obj\Debug\net7.0\Abtraction.AssemblyInfoInputs.cache
+C:\Users\Meraj\source\repos\КНБgame\Abtraction\obj\Debug\net7.0\Abtraction.AssemblyInfo.cs
+C:\Users\Meraj\source\repos\КНБgame\Abtraction\obj\Debug\net7.0\Abtraction.csproj.CoreCompileInputs.cache
+C:\Users\Meraj\source\repos\КНБgame\Abtraction\obj\Debug\net7.0\Abtraction.csproj.CopyComplete
+C:\Users\Meraj\source\repos\КНБgame\Abtraction\obj\Debug\net7.0\Abtraction.dll
+C:\Users\Meraj\source\repos\КНБgame\Abtraction\obj\Debug\net7.0\refint\Abtraction.dll
+C:\Users\Meraj\source\repos\КНБgame\Abtraction\obj\Debug\net7.0\Abtraction.pdb
+C:\Users\Meraj\source\repos\КНБgame\Abtraction\obj\Debug\net7.0\ref\Abtraction.dll
